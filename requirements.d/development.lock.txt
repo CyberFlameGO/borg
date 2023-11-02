@@ -1,6 +1,6 @@
 setuptools==60.7.1
 setuptools-scm==6.4.2
-pip==22.0.3
+pip==23.3
 virtualenv==20.13.0
 pkgconfig==1.5.5
 tox==3.24.5
